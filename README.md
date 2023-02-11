@@ -12,7 +12,7 @@ This script does not crack the game, but it may help you win the Aries' attack m
 1. Search for the Window handle of Himawari Aqua After and acquire its position. 
 2. Keep making screenshots of the game through Pillow.
 3. Check some pixels in the screenshots and figure out whether there is an attack.
-4. Simulate mouse clicking to defend the attack if there is one.
+4. Simulate mouse click to defend the attack if there is one.
 
 ## Usage
 Test environment: Windows10 21H2, python 3.10.3
